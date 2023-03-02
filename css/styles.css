@@ -1,0 +1,17 @@
+.formEdit{
+    margin: auto;
+    text-align: center;
+}
+
+.center{
+    margin: auto;
+    text-align: center;
+}
+
+.dado{
+    margin: auto;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

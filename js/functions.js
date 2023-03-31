@@ -8,7 +8,7 @@ function lanzarDado() {
 
     for (let i = 1; i <= numLanzamientos; i++) {
         const valor = Math.random();
-        const rn6 = (valor * 6).toFixed(2);
+        const rn6 = (valor * 12).toFixed(2);
         const intRn6 = Math.floor(rn6);
         const intRn6Plus = intRn6 + 1;
         valores.push(rn6);
